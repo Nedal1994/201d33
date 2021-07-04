@@ -8,3 +8,8 @@ alert("And you are " + age + " years old")
 
 let color = prompt("Favorite color ?")
 alert("your favorite color is " + color)
+
+let food = prompt("Favorite food ?")
+alert("your favorite food is " + food)
+
+alert("You are " + userName + "You are " + age +" years old" + " your favorite color is " + color + " and your favorite food is " + food)
