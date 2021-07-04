@@ -7,5 +7,4 @@ console.log(age)
 alert("And you are " +age+ " years old")
 
 let color = prompt("Favorite color ?")
-console.log(color)
 alert("your favorite color is " +color)
